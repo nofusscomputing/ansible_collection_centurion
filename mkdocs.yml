@@ -43,6 +43,14 @@ nav:
 
           - projects/ansible/collection/centurion/plugins/inventory.md
 
+        - Roles:
+
+          - projects/ansible/collection/centurion/roles/index.md
+
+          - Git:
+
+            - projects/ansible/collection/centurion/roles/git/index.md
+
 
 - Operations: 
 

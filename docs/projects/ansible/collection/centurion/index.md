@@ -26,6 +26,8 @@ This Ansible Collection is intended to compliement [Centurion ERP](../../../cent
 
 - [Inventory plugin](./plugins/inventory.md)
 
+- [Roles](./roles/index.md)
+
 
 ## Ansible Automation Platform / AWX
 
